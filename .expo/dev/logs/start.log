@@ -1,0 +1,174 @@
+{"_e":"root:init","_t":1788836573296,"format":"v0-jsonl","version":"57.0.22"}
+{"_e":"env:mode","_t":1788836573297,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1788836573299,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1788836587645,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1788836587979,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1788836589109,"plugins":[]}
+{"_e":"metro:instantiate","_t":1788836593858,"atlas":false,"workers":12,"host":"::","port":8082}
+{"_e":"metro:bundling:started","_t":1788836632256,"id":"4","platform":"android","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1788836632256,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1788836632259,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1788836632979,"id":"4","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1788836633085,"id":"4","progress":0.16000000000000003,"total":8,"current":4}
+{"_e":"metro:bundling:progress","_t":1788836633240,"id":"4","progress":0.48999999999999994,"total":10,"current":7}
+{"_e":"metro:bundling:progress","_t":1788836633797,"id":"4","progress":0.6400000000000001,"total":10,"current":8}
+{"_e":"metro:bundling:progress","_t":1788836633898,"id":"4","progress":0.6400000000000001,"total":17,"current":12}
+{"_e":"metro:bundling:progress","_t":1788836634013,"id":"4","progress":0.6400000000000001,"total":116,"current":13}
+{"_e":"metro:bundling:progress","_t":1788836634114,"id":"4","progress":0.6400000000000001,"total":125,"current":22}
+{"_e":"metro:bundling:progress","_t":1788836634228,"id":"4","progress":0.6400000000000001,"total":133,"current":30}
+{"_e":"metro:bundling:progress","_t":1788836634327,"id":"4","progress":0.6400000000000001,"total":153,"current":34}
+{"_e":"metro:bundling:progress","_t":1788836634427,"id":"4","progress":0.6400000000000001,"total":154,"current":41}
+{"_e":"metro:bundling:progress","_t":1788836634527,"id":"4","progress":0.6400000000000001,"total":174,"current":54}
+{"_e":"metro:bundling:progress","_t":1788836634629,"id":"4","progress":0.6400000000000001,"total":189,"current":73}
+{"_e":"metro:bundling:progress","_t":1788836634732,"id":"4","progress":0.6400000000000001,"total":203,"current":88}
+{"_e":"metro:bundling:progress","_t":1788836634831,"id":"4","progress":0.6400000000000001,"total":218,"current":109}
+{"_e":"metro:bundling:progress","_t":1788836634931,"id":"4","progress":0.6400000000000001,"total":237,"current":127}
+{"_e":"metro:bundling:progress","_t":1788836635033,"id":"4","progress":0.6400000000000001,"total":249,"current":139}
+{"_e":"metro:bundling:progress","_t":1788836635135,"id":"4","progress":0.6400000000000001,"total":278,"current":150}
+{"_e":"metro:bundling:progress","_t":1788836635236,"id":"4","progress":0.6400000000000001,"total":288,"current":168}
+{"_e":"metro:bundling:progress","_t":1788836635337,"id":"4","progress":0.6400000000000001,"total":328,"current":190}
+{"_e":"metro:bundling:progress","_t":1788836635445,"id":"4","progress":0.6400000000000001,"total":347,"current":212}
+{"_e":"metro:bundling:progress","_t":1788836635547,"id":"4","progress":0.6400000000000001,"total":385,"current":223}
+{"_e":"metro:bundling:progress","_t":1788836635649,"id":"4","progress":0.6400000000000001,"total":388,"current":243}
+{"_e":"metro:bundling:progress","_t":1788836635749,"id":"4","progress":0.6400000000000001,"total":400,"current":258}
+{"_e":"metro:bundling:progress","_t":1788836635850,"id":"4","progress":0.6400000000000001,"total":414,"current":285}
+{"_e":"metro:bundling:progress","_t":1788836635949,"id":"4","progress":0.6400000000000001,"total":438,"current":319}
+{"_e":"metro:bundling:progress","_t":1788836636049,"id":"4","progress":0.6400000000000001,"total":443,"current":346}
+{"_e":"metro:bundling:progress","_t":1788836636150,"id":"4","progress":0.6531705187277052,"total":464,"current":375}
+{"_e":"metro:bundling:progress","_t":1788836636249,"id":"4","progress":0.7113637057021196,"total":479,"current":404}
+{"_e":"metro:bundling:progress","_t":1788836636349,"id":"4","progress":0.7332281544695041,"total":501,"current":429}
+{"_e":"metro:bundling:progress","_t":1788836636450,"id":"4","progress":0.7871048408029861,"total":523,"current":464}
+{"_e":"metro:bundling:progress","_t":1788836636552,"id":"4","progress":0.8153820449988862,"total":536,"current":484}
+{"_e":"metro:bundling:progress","_t":1788836636652,"id":"4","progress":0.8702079373915106,"total":551,"current":514}
+{"_e":"metro:bundling:progress","_t":1788836636757,"id":"4","progress":0.8702079373915106,"total":580,"current":540}
+{"_e":"metro:bundling:progress","_t":1788836636857,"id":"4","progress":0.8702079373915106,"total":618,"current":569}
+{"_e":"metro:bundling:progress","_t":1788836636959,"id":"4","progress":0.8702079373915106,"total":640,"current":597}
+{"_e":"metro:bundling:progress","_t":1788836637062,"id":"4","progress":0.8812407805651382,"total":653,"current":613}
+{"_e":"metro:bundling:progress","_t":1788836637162,"id":"4","progress":0.8991303700850811,"total":676,"current":641}
+{"_e":"metro:bundling:progress","_t":1788836637263,"id":"4","progress":0.9539630780835182,"total":687,"current":671}
+{"_e":"metro:bundling:progress","_t":1788836637365,"id":"4","progress":0.9913731531696136,"total":694,"current":691}
+{"_e":"metro:bundling:progress","_t":1788836637475,"id":"4","progress":0.9942446162662258,"total":694,"current":692}
+{"_e":"metro:bundling:progress","_t":1788836637988,"id":"4","progress":0.9971202318763547,"total":694,"current":693}
+{"_e":"metro:bundling:progress","_t":1788836638088,"id":"4","progress":0.9971326179630265,"total":697,"current":696}
+{"_e":"metro:bundling:progress","_t":1788836638419,"id":"4","progress":0.999,"total":697,"current":697}
+{"_e":"metro:bundling:progress","_t":1788836638524,"id":"4","progress":0.999,"total":706,"current":699}
+{"_e":"metro:bundling:progress","_t":1788836638632,"id":"4","progress":0.999,"total":708,"current":708}
+{"_e":"metro:bundling:done","_t":1788836638840,"id":"4","total":708,"ms":6584.6221}
+{"_e":"metro:bundling:failed","_t":1788837728581,"id":null,"message":"Unable to resolve \"./src/navigation/ClassesStack\" from \"App.js\"\n  3 | import {NavigationContainer, DefaultTheme} from '@react-navigation/native';\n  4 | import {SafeAreaProvider} from 'react-native-safe-area-context';\n> 5 | import {ClassesStack} from './src/navigation/ClassesStack';\n    |                             ^\n  6 | import {colors} from './src/constants/colors';\n  7 |\n  8 |","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mApp.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./src/navigation/ClassesStack\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./App\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index\"\u001b[39m\n","filename":null,"targetModuleName":"./src/navigation/ClassesStack","originModulePath":"App.js"}
+{"_e":"metro:bundling:failed","_t":1788837884465,"id":null,"message":"Unable to resolve \"./src/navigation/ClassesStack\" from \"App.js\"\n  3 | import {NavigationContainer, DefaultTheme} from '@react-navigation/native';\n  4 | import {SafeAreaProvider} from 'react-native-safe-area-context';\n> 5 | import {ClassesStack} from './src/navigation/ClassesStack';\n    |                             ^\n  6 | import {colors} from './src/theme/index';\n  7 |\n  8 |","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mApp.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./src/navigation/ClassesStack\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./App\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index\"\u001b[39m\n","filename":null,"targetModuleName":"./src/navigation/ClassesStack","originModulePath":"App.js"}
+{"_e":"metro:bundling:failed","_t":1788837887296,"id":null,"message":"Unable to resolve \"./src/navigation/ClassesStack\" from \"App.js\"\n  3 | import {NavigationContainer, DefaultTheme} from '@react-navigation/native';\n  4 | import {SafeAreaProvider} from 'react-native-safe-area-context';\n> 5 | import {ClassesStack} from './src/navigation/ClassesStack';\n    |                             ^\n  6 | import {colors} from './src/theme/index';\n  7 |\n  8 |","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mApp.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./src/navigation/ClassesStack\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./App\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index\"\u001b[39m\n","filename":null,"targetModuleName":"./src/navigation/ClassesStack","originModulePath":"App.js"}
+{"_e":"metro:bundling:started","_t":1788837934397,"id":"7","platform":"android","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1788837934397,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1788837934397,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:failed","_t":1788837934401,"id":"7","message":"Unable to resolve \"./src/navigation/ClassesStack\" from \"App.js\"\n  3 | import {NavigationContainer, DefaultTheme} from '@react-navigation/native';\n  4 | import {SafeAreaProvider} from 'react-native-safe-area-context';\n> 5 | import {ClassesStack} from './src/navigation/ClassesStack';\n    |                             ^\n  6 | import {colors} from './src/theme/index';\n  7 |\n  8 |","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mApp.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./src/navigation/ClassesStack\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./App\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index\"\u001b[39m\n","filename":null,"targetModuleName":"./src/navigation/ClassesStack","originModulePath":"App.js"}
+{"_e":"metro:bundling:started","_t":1788837937876,"id":"8","platform":"android","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1788837937877,"id":"8","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1788837937877,"id":"8","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:failed","_t":1788837937880,"id":"8","message":"Unable to resolve \"./src/navigation/ClassesStack\" from \"App.js\"\n  3 | import {NavigationContainer, DefaultTheme} from '@react-navigation/native';\n  4 | import {SafeAreaProvider} from 'react-native-safe-area-context';\n> 5 | import {ClassesStack} from './src/navigation/ClassesStack';\n    |                             ^\n  6 | import {colors} from './src/theme/index';\n  7 |\n  8 |","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39mApp.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./src/navigation/ClassesStack\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./App\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index\"\u001b[39m\n","filename":null,"targetModuleName":"./src/navigation/ClassesStack","originModulePath":"App.js"}
+{"_e":"root:init","_t":1788838266174,"format":"v0-jsonl","version":"57.0.22"}
+{"_e":"env:mode","_t":1788838266175,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1788838266177,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1788838322775,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1788838323165,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1788838323470,"plugins":[]}
+{"_e":"metro:instantiate","_t":1788838328294,"atlas":false,"workers":12,"host":"::","port":8082}
+{"_e":"root:init","_t":1788838486375,"format":"v0-jsonl","version":"57.0.22"}
+{"_e":"env:mode","_t":1788838486376,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1788838486378,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1788838486700,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1788838486965,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1788838487165,"plugins":[]}
+{"_e":"metro:instantiate","_t":1788838490778,"atlas":false,"workers":12,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1788839142188,"id":"4","platform":"android","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1788839142189,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1788839142192,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1788839142308,"id":"4","progress":0.0656640625,"total":160,"current":41}
+{"_e":"metro:bundling:progress","_t":1788839142407,"id":"4","progress":0.262702174946365,"total":279,"current":143}
+{"_e":"metro:bundling:progress","_t":1788839142507,"id":"4","progress":0.35179514125499795,"total":349,"current":207}
+{"_e":"metro:bundling:progress","_t":1788839142607,"id":"4","progress":0.6778116481992227,"total":498,"current":410}
+{"_e":"metro:bundling:progress","_t":1788839142707,"id":"4","progress":0.7557778355879293,"total":620,"current":539}
+{"_e":"metro:bundling:progress","_t":1788839142807,"id":"4","progress":0.9971691450858285,"total":706,"current":705}
+{"_e":"metro:bundling:progress","_t":1788839142895,"id":"4","progress":0.999,"total":706,"current":706}
+{"_e":"metro:bundling:progress","_t":1788839143000,"id":"4","progress":0.999,"total":717,"current":711}
+{"_e":"metro:bundling:progress","_t":1788839143584,"id":"4","progress":0.999,"total":717,"current":712}
+{"_e":"metro:bundling:progress","_t":1788839143684,"id":"4","progress":0.999,"total":746,"current":722}
+{"_e":"metro:bundling:progress","_t":1788839143791,"id":"4","progress":0.999,"total":771,"current":744}
+{"_e":"metro:bundling:progress","_t":1788839143894,"id":"4","progress":0.999,"total":778,"current":744}
+{"_e":"metro:bundling:progress","_t":1788839143897,"id":"4","progress":0.999,"total":778,"current":745}
+{"_e":"metro:bundling:progress","_t":1788839143997,"id":"4","progress":0.999,"total":868,"current":772}
+{"_e":"metro:bundling:progress","_t":1788839144101,"id":"4","progress":0.999,"total":870,"current":782}
+{"_e":"metro:bundling:progress","_t":1788839144176,"id":"4","progress":0.999,"total":870,"current":783}
+{"_e":"metro:bundling:progress","_t":1788839144276,"id":"4","progress":0.999,"total":871,"current":830}
+{"_e":"metro:bundling:progress","_t":1788839144377,"id":"4","progress":0.999,"total":901,"current":861}
+{"_e":"metro:bundling:progress","_t":1788839144477,"id":"4","progress":0.999,"total":911,"current":891}
+{"_e":"metro:bundling:progress","_t":1788839144578,"id":"4","progress":0.999,"total":929,"current":913}
+{"_e":"metro:bundling:progress","_t":1788839144678,"id":"4","progress":0.999,"total":969,"current":930}
+{"_e":"metro:bundling:progress","_t":1788839144778,"id":"4","progress":0.999,"total":993,"current":965}
+{"_e":"metro:bundling:progress","_t":1788839144881,"id":"4","progress":0.999,"total":1027,"current":1007}
+{"_e":"metro:bundling:progress","_t":1788839144985,"id":"4","progress":0.999,"total":1033,"current":1033}
+{"_e":"metro:bundling:done","_t":1788839145035,"id":"4","total":1033,"ms":2846.19}
+{"_e":"metro:bundling:started","_t":1788839161900,"id":"5","platform":"android","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1788839161900,"id":"5","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1788839161903,"id":"5","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1788839162003,"id":"5","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1788839162103,"id":"5","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1788839162203,"id":"5","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1788839162248,"id":"5","total":1,"ms":348.1016}
+{"_e":"metro:bundling:started","_t":1788839280771,"id":"7","platform":"android","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1788839280772,"id":"7","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1788839280798,"id":"7","total":1,"ms":26.7416}
+{"_e":"metro:bundling:started","_t":1788839510464,"id":"8","platform":"android","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1788839510464,"id":"8","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1788839510465,"id":"8","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1788839510529,"id":"8","total":1,"ms":65.0156}
+{"_e":"metro:bundling:started","_t":1788840026779,"id":"a","platform":"android","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1788840026780,"id":"a","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1788840026782,"id":"a","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1788840026882,"id":"a","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1788840026982,"id":"a","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1788840027082,"id":"a","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1788840027162,"id":"a","total":1,"ms":382.8386}
+{"_e":"metro:bundling:started","_t":1788840069852,"id":"b","platform":"android","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1788840069853,"id":"b","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1788840069878,"id":"b","total":1,"ms":25.419}
+{"_e":"metro:client_log","_t":1788840334159,"level":"error","data":["Text strings must be rendered within a <Text> component."]}
+{"_e":"metro:client_log","_t":1788840334317,"level":"error","data":["Text strings must be rendered within a <Text> component."]}
+{"_e":"metro:client_log","_t":1788840334391,"level":"error","data":["[Invariant Violation: View config getter callback for component `text` must be a function (received `undefined`). Make sure to start component names with a capital letter.]"]}
+{"_e":"metro:bundling:failed","_t":1788840516970,"id":null,"message":"SyntaxError: C:\\Tdea\\Software5\\React\\reservaclasesdeingles\\src\\screens\\ClasesScreen.js: JSX attributes must only be assigned a non-empty expression. (18:21)\n\n  16 |\n  17 |     return(\n> 18 |         <View style= {}>\n     |                      ^\n  19 |             <View>\n  20 |                 <Text>\n  21 |","importStack":null,"filename":"src\\screens\\ClasesScreen.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1788840517163,"id":null,"message":"SyntaxError: C:\\Tdea\\Software5\\React\\reservaclasesdeingles\\src\\screens\\ClasesScreen.js: JSX attributes must only be assigned a non-empty expression. (18:21)\n\n  16 |\n  17 |     return(\n> 18 |         <View style= {}>\n     |                      ^\n  19 |             <View>\n  20 |                 <Text>\n  21 |","importStack":null,"filename":"src\\screens\\ClasesScreen.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:failed","_t":1788840517319,"id":null,"message":"SyntaxError: C:\\Tdea\\Software5\\React\\reservaclasesdeingles\\src\\screens\\ClasesScreen.js: JSX attributes must only be assigned a non-empty expression. (18:21)\n\n  16 |\n  17 |     return(\n> 18 |         <View style= {}>\n     |                      ^\n  19 |             <View>\n  20 |                 <Text>\n  21 |","importStack":null,"filename":"src\\screens\\ClasesScreen.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:client_log","_t":1788840521373,"level":"error","data":["[TypeError: undefined is not a function]"]}
+{"_e":"metro:client_log","_t":1788840521422,"level":"error","data":["[TypeError: An error was thrown when attempting to render log messages via LogBox.\n\nundefined is not a function]"]}
+{"_e":"metro:bundling:failed","_t":1788840532346,"id":null,"message":"SyntaxError: C:\\Tdea\\Software5\\React\\reservaclasesdeingles\\src\\screens\\ClasesScreen.js: JSX attributes must only be assigned a non-empty expression. (18:21)\n\n  16 |\n  17 |     return(\n> 18 |         <View style= {}>\n     |                      ^\n  19 |             <View>\n  20 |                 <Text>\n  21 |","importStack":null,"filename":"src\\screens\\ClasesScreen.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:bundling:started","_t":1788840666667,"id":"o","platform":"android","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1788840666667,"id":"o","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1788840666695,"id":"o","total":1,"ms":27.9439}
+{"_e":"metro:bundling:started","_t":1788840709938,"id":"p","platform":"android","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1788840709938,"id":"p","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1788840709968,"id":"p","total":1,"ms":29.4625}
+{"_e":"metro:bundling:failed","_t":1788840763973,"id":null,"message":"SyntaxError: C:\\Tdea\\Software5\\React\\reservaclasesdeingles\\src\\screens\\ClasesScreen.js: Unexpected token (18:74)\n\n  16 |\n  17 |     return(\n> 18 |         <View  style= {[style.pantalla, {paddingTop: insets.top + spacing.}]}>\n     |                                                                           ^\n  19 |             <View>\n  20 |                 <Text>\n  21 |","importStack":null,"filename":"src\\screens\\ClasesScreen.js","targetModuleName":null,"originModulePath":null}
+{"_e":"metro:client_log","_t":1788840766010,"level":"error","data":["[TypeError: undefined is not a function]"]}
+{"_e":"metro:client_log","_t":1788840766156,"level":"error","data":["[TypeError: An error was thrown when attempting to render log messages via LogBox.\n\nundefined is not a function]"]}
+{"_e":"metro:bundling:failed","_t":1788840775937,"id":null,"message":"SyntaxError: C:\\Tdea\\Software5\\React\\reservaclasesdeingles\\src\\screens\\ClasesScreen.js: Unexpected token (18:74)\n\n  16 |\n  17 |     return(\n> 18 |         <View  style= {[style.pantalla, {paddingTop: insets.top + spacing.}]}>\n     |                                                                           ^\n  19 |             <View>\n  20 |                 <Text>\n  21 |","importStack":null,"filename":"src\\screens\\ClasesScreen.js","targetModuleName":null,"originModulePath":null}
+{"_e":"root:init","_t":1788840879994,"format":"v0-jsonl","version":"57.0.22"}
+{"_e":"env:mode","_t":1788840879995,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1788840879996,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1788840882596,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1788840882892,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1788840883171,"plugins":[]}
+{"_e":"metro:instantiate","_t":1788840887456,"atlas":false,"workers":12,"host":"::","port":8082}
+{"_e":"metro:bundling:started","_t":1788840916152,"id":"3","platform":"android","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1788840916152,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1788840916156,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1788840916256,"id":"3","progress":0.10715025102220384,"total":278,"current":91}
+{"_e":"metro:bundling:progress","_t":1788840916356,"id":"3","progress":0.37522254080695633,"total":462,"current":283}
+{"_e":"metro:bundling:progress","_t":1788840916456,"id":"3","progress":0.5358766000932267,"total":668,"current":489}
+{"_e":"metro:bundling:progress","_t":1788840916561,"id":"3","progress":0.7519992866790935,"total":911,"current":790}
+{"_e":"metro:bundling:progress","_t":1788840916661,"id":"3","progress":0.9148515684542241,"total":1011,"current":967}
+{"_e":"metro:bundling:done","_t":1788840916740,"id":"3","total":1011,"ms":587.631}
+{"_e":"metro:bundling:started","_t":1788840968971,"id":"4","platform":"android","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1788840968972,"id":"4","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1788840968995,"id":"4","total":1,"ms":23.3242}
+{"_e":"metro:bundling:started","_t":1788842011935,"id":"5","platform":"android","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1788842011935,"id":"5","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:done","_t":1788842011958,"id":"5","total":1,"ms":22.704}

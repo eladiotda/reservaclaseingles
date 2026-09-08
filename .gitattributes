@@ -1,0 +1,5 @@
+# Se versiona node_modules completo para mover el proyecto entre PCs.
+# Desactivamos toda conversion de fin de linea: los archivos se guardan y
+# se recuperan byte a byte, para no corromper los scripts de node_modules/.bin
+# ni los binarios.
+* -text
