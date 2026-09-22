@@ -1,5 +1,10 @@
 {
   "enabledPlugins": {
     "expo@claude-plugins-official": true
+  },
+  "permissions": {
+    "allow": [
+      "PowerShell(try { & \"$env:LOCALAPPDATA\\\\Android\\\\Sdk\\\\platform-tools\\\\adb.exe\" devices } catch { \"adb not found in default location\" })"
+    ]
   }
 }
